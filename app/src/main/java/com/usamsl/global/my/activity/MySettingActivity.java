@@ -54,7 +54,7 @@ public class MySettingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_my_setting);
         Bundle bundle = getIntent().getExtras();
         if(bundle != null){
-//            Toast.makeText(MySettingActivity.this, "MySettingActivity=="+bundle.getString("content"), Toast.LENGTH_SHORT).show();
+//            Toast.makeText(MySettingActivity.this, "MySettingActivity=="+bundle.getString("content"), Toast.LENGTH_SHORT).show
         }
         initView();
         toListener();
