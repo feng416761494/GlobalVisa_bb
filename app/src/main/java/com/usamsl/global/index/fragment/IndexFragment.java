@@ -68,7 +68,7 @@ import okhttp3.Response;
  * 文件名：IndexFragment
  * 描述：主界面
  * 时间：2016/12/14
- * 作者：冯井起test
+ * 作者：冯井起tes
  */
 public class IndexFragment extends Fragment implements AMapLocationListener,View.OnClickListener {
 
