@@ -2,7 +2,7 @@ package com.usamsl.global.index.entity;
 
 /**
  * Created by Administrator on 2016/12/20.
- * 描述：热门城市
+ * 描述：热门城市热门城市热门城市热门城市热门城市热门城市热门城市
  */
 public class City {
 
